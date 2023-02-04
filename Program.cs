@@ -8,8 +8,12 @@ namespace Program
         public static void Main(string[] args)
         {
             // Cadastro
-            var nomes = new ArrayList();
-            var senhas = new ArrayList();
+            var nomes = new ArrayList(){
+                "Paulo","Eduardo"
+            };
+            var senhas = new ArrayList(){
+                "senha","password"
+            };
             string senha = "";
             string input = "";
             while(input.ToLower() != "n")
