@@ -1,0 +1,15 @@
+/home/perna/codecs/TerceiroModulo/Exercicio4/bin/Debug/net6.0/Exercicio4
+/home/perna/codecs/TerceiroModulo/Exercicio4/bin/Debug/net6.0/Exercicio4.deps.json
+/home/perna/codecs/TerceiroModulo/Exercicio4/bin/Debug/net6.0/Exercicio4.runtimeconfig.json
+/home/perna/codecs/TerceiroModulo/Exercicio4/bin/Debug/net6.0/Exercicio4.dll
+/home/perna/codecs/TerceiroModulo/Exercicio4/bin/Debug/net6.0/ref/Exercicio4.dll
+/home/perna/codecs/TerceiroModulo/Exercicio4/bin/Debug/net6.0/Exercicio4.pdb
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.csproj.AssemblyReference.cache
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.AssemblyInfoInputs.cache
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.AssemblyInfo.cs
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.csproj.CoreCompileInputs.cache
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.dll
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/ref/Exercicio4.dll
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.pdb
+/home/perna/codecs/TerceiroModulo/Exercicio4/obj/Debug/net6.0/Exercicio4.genruntimeconfig.cache
